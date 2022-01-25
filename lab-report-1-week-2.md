@@ -13,7 +13,7 @@ Here are the 6 steps that we will be following.
 
 **1. Installing VS Code**
 
-Go to the Visual Studio Code website https://code.visualstudio.com/, and follow the instructions to download and install it on your computer. It should look like the following once installed.
+Go to the Visual Studio Code website [VS Code](https://code.visualstudio.com/), and follow the instructions to download and install it on your computer. It should look like the following once installed.
 ![Image](SS1.png)
 
 **2. Remotely Coding**
@@ -87,4 +87,5 @@ The following is one that I ran on my computer. This copies over whereami.java i
 
  test
 ```
+This requires *six* keystrokes if you already have these commands typed you can utilize the up arrows to reach the commands and the use enter to enter the commands. The first and second keystrokes are up arrow, the third is enter, the fourth and fifth is up arrow, and the sixth is enter.
 ![Image](SS6.png)
