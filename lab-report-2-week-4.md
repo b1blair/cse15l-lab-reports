@@ -7,8 +7,14 @@ This is a screen shot of the first code change diff
 
 [Failure inducing test#1](https://github.com/b1blair/markdown-parse/blob/6fbc3e6dc2ee161df95c5d6b31c30edd86a625cf/test-file-break.md?plain=1)
 
-The following is the Symptom from what was printed at the terminal
+The following is the command followed by the symptom from what was printed at the terminal
 
+Command
+```
+
+```
+
+Symptom
 ```
 Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
         at java.base/java.util.Arrays.copyOf(Arrays.java:3512)
@@ -30,7 +36,14 @@ This is a screen shot of the first code change diff
 
 [Failure inducing test#2](https://github.com/b1blair/markdown-parse/blob/main/test-file-break.md?plain=1)
 
-The following is the symptom from what was printed at the terminal
+The following is the command followed by the symptom from what was printed at the terminal
+
+Command
+```
+
+```
+
+Symptom
 ```
 []
 ```
@@ -44,7 +57,14 @@ This is a screen shot of the first code change diff
 
 [Failure inducing test#3](https://github.com/b1blair/markdown-parse/blob/main/test-file8.md?plain=1)
 
-The following is the symptom from what was printed at the terminal
+The following is the command followed by the symptom from what was printed at the terminal
+
+Command
+```
+
+```
+
+Symptom
 ```
 Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String index out of range: -1
         at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:48)
