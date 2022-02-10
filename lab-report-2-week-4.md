@@ -11,7 +11,8 @@ The following is the command followed by the symptom from what was printed at th
 
 Command
 ```
-
+javac MarkdownParse.java
+java MarkdownParse test-file-break.md
 ```
 
 Symptom
@@ -40,7 +41,8 @@ The following is the command followed by the symptom from what was printed at th
 
 Command
 ```
-
+javac MarkdownParse.java
+java MarkdownParse test-file-8.md
 ```
 
 Symptom
