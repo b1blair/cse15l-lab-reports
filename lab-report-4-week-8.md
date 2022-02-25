@@ -25,9 +25,13 @@ The expected output for Snippet 1 for both MarkdownParse files is:
 ```
 The following is the JUnit test for snippet 1 that I ran for both my MarkdownParse and the other MarkdownParse. (It was run once on both)
 ![Image](Lab4_Test1.png)
+
 Output for my implementation:
+
 ![Image](Lab4_Result1.png)
+
 Output for other implementation:
+
 ![Image](Lab4_Result2.png)
 
 ---
@@ -46,9 +50,13 @@ The expected output for Snippet 2 for both MarkdownParse files is:
 ```
 The following is the JUnit test for snippet 2 that I ran for both my MarkdownParse and the other MarkdownParse. (It was run once on both)
 ![Image](Lab4_Test2.png)
+
 Output for my implementation:
+
 ![Image](Lab4_Result3.png)
+
 Output for other implementation:
+
 ![Image](Lab4_Result4.png)
 
 ---
@@ -86,9 +94,13 @@ The expected output for Snippet 3 for both MarkdownParse files is:
 ```
 The following is the JUnit test for snippet 3 that I ran for both my MarkdownParse and the other MarkdownParse. (It was run once on both)
 ![Image](Lab4_Test3.png)
+
 Output for my implementation:
+
 ![Image](Lab4_Result5.png)
+
 Output for other implementation:
+
 ![Image](Lab4_Result6.png)
 
 # End of Lab questions
